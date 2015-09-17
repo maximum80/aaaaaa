@@ -5,7 +5,7 @@
 
 int isPrime(int n) {
   //ここに素数判定プログラムを実装してください。
-  return -1;
+ aaaaaa return -1;
 }
 
 int primeSeq(int n) {
